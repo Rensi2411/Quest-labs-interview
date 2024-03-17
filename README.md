@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Quest-labs-interview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Board application built with React.js. It allows users to manage tasks/cards across different sections using drag-and-drop functionality.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Drag and Drop**: Easily move cards between different sections using drag and drop.
+- **Add Cards**: Add new cards to each section to represent tasks or items.
+- **Responsive Design**: The application is responsive and adapts to different screen sizes.
 
-### `npm start`
+-Clone the repository to your local machine: https://github.com/Rensi2411/Quest-labs-interview.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Deployed Link:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+- **Adding Cards**: Click on the "+" button in each section to add a new card. Enter the title and information of the card and press Enter.
+- **Moving Cards**: Drag and drop cards between different sections to change their position.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Laptop View
+<img width="947" alt="Screenshot 2024-03-17 104219" src="https://github.com/Rensi2411/Quest-labs-interview/assets/131978061/23711f1d-2010-40d5-9973-e73f7f8f27cc">
 
-### `npm run build`
+<img width="946" alt="Screenshot 2024-03-17 110533" src="https://github.com/Rensi2411/Quest-labs-interview/assets/131978061/52fa61b6-b3a0-48bd-9999-e9eb7038a55c">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="945" alt="Screenshot 2024-03-17 110629" src="https://github.com/Rensi2411/Quest-labs-interview/assets/131978061/01059842-37b9-4b05-984e-4b2f2531313e">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tablet view
+<img width="283" alt="Screenshot 2024-03-17 110850" src="https://github.com/Rensi2411/Quest-labs-interview/assets/131978061/192cbf6f-f492-4575-a483-b734c688ec4c">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Mobile view
 
-### `npm run eject`
+<img width="176" alt="Screenshot 2024-03-17 110727" src="https://github.com/Rensi2411/Quest-labs-interview/assets/131978061/64a0cb56-674b-4fc0-afde-4dbf0e2077ce">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Dependencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://reactjs.org/): JavaScript library for building user interfaces.
+- [React Beautiful Dnd](https://github.com/atlassian/react-beautiful-dnd): Library for implementing drag and drop functionality in React.
+- Other dependencies can be found in the `package.json` file.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Credits
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project was created by Rensi Dudhat.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
