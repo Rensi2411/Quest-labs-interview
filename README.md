@@ -10,7 +10,7 @@ This is a simple Board application built with React.js. It allows users to manag
 
 -Clone the repository to your local machine: https://github.com/Rensi2411/Quest-labs-interview.git
 
-## Deployed Link:
+## Deployed Link: https://65f69fb8148758518c079cd1--fancy-chimera-4fa31a.netlify.app/
 
 ## Usage
 
