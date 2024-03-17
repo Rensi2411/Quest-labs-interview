@@ -35,3 +35,10 @@ const initialData = [
       ]
     }
   ];
+
+  export const getSections = () => initialData;
+
+  export const updateSections = (updatedSections) => {
+    // Placeholder function to update sections data
+    console.log("Updated sections:", updatedSections);
+  };
