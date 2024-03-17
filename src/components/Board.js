@@ -36,7 +36,6 @@ function Board() {
 
   // Add a new card to a section
   const addCard = (title, info, sectionId) => {
-    // Copy the sections array to avoid mutating state directly
     const updatedSections = sections.map(section => {
       if (section.id === sectionId) {
         return {
