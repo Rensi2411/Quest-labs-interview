@@ -1,0 +1,43 @@
+.card-form {
+    margin-bottom: 10px;
+  }
+  
+  .card-form input {
+    width: calc(100% - 80px);/* Set input width to fill container minus button width */
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 15px;
+  }
+  
+  .card-form button {
+    margin: 10px 5px;
+    padding: 5px;
+    font-size:15px ;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+  
+  .card-form button:hover {
+    cursor: pointer;
+    background-color: rgb(244, 210, 215);
+  }
+  
+  
+  #add {
+    color: grey;
+    border: none;
+    cursor: pointer;
+    background-color:rgb(241,242,244) ;
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  #add:hover {
+    color: black;
+  }
+  
+  input{
+    margin: 5px;
+  }
