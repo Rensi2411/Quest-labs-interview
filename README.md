@@ -13,6 +13,9 @@ This is a simple Board application built with React.js. It allows users to manag
 ## Deployed Link:
 https://65f69fb8148758518c079cd1--fancy-chimera-4fa31a.netlify.app/
 
+## Video Link:
+https://drive.google.com/file/d/1pKQzYGcFgSTOwLNrGp19xKnCa7hgCZ86/view?usp=sharing
+
 ## Usage
 
 - **Adding Cards**: Click on the "+" button in each section to add a new card. Enter the title and information of the card and press Enter.
